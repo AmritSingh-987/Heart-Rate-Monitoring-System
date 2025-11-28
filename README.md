@@ -376,7 +376,15 @@ SOFTWARE.
 
 ---
 
-## 👨‍💻 Author: Amrit Singh
+## 👨‍💻 Authors: 
+Amrit Singh
+Anass Youssfi
+Regan Dangol
+Md Mohiuddin Mollah
+Chigozinim Nwasinachi
+
+
+
 - GitHub: https://github.com/AmritSingh-987
 
 
